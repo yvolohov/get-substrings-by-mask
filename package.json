@@ -1,0 +1,31 @@
+{
+  "name": "get-substrings-by-mask",
+  "version": "1.0.0",
+  "description": "Extract substrings from any structurized string using a mask",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yvolohov/get-substrings-by-mask.git"
+  },
+  "keywords": [
+    "string",
+    "strings",
+    "substring",
+    "substrings",
+    "mask",
+    "template",
+    "pattern",
+    "parse",
+    "extract",
+    "get"
+  ],
+  "author": "Yaroslav Volohov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yvolohov/get-substrings-by-mask/issues"
+  },
+  "homepage": "https://github.com/yvolohov/get-substrings-by-mask#readme"
+}
